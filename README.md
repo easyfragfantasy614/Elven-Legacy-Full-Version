@@ -255,3 +255,6 @@ This repository serves as the official landing page for Elven Legacy. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Elven Legacy today!**
+
+---
+**Last updated:** 2026-09-08 07:07:33 UTC
