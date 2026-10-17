@@ -257,4 +257,4 @@ This repository serves as the official landing page for Elven Legacy. The softwa
 **Get the most recent version of Elven Legacy today!**
 
 ---
-**Last updated:** 2026-10-17 11:53:09 UTC
+**Last updated:** 2026-10-17 14:43:20 UTC
